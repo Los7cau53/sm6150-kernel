@@ -125,3 +125,13 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+
+#meme
+/proton-clang/
+/clang-llvm/
+error.log
+/out/
+/AnyKernel3
+/scripts/ufdt/
+/gcc32/
+/gcc64/

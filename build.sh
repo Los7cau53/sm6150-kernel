@@ -6,7 +6,7 @@
 KERNEL_DEFCONFIG=vendor/lineage_phoenix_defconfig
 KERNELDIR=$PWD
 ANYKERNEL3_DIR=$PWD/AnyKernel3/
-FINAL_KERNEL_ZIP=Optimus_Drunk_Phoenix_v10.29.zip
+FINAL_KERNEL_ZIP=los7cau53v1.zip
 export PATH="$PWD/proton-clang/bin:${PATH}"
 export ARCH=arm64
 export SUBARCH=arm64

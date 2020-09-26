@@ -149,7 +149,7 @@ DATE=$(TZ=Asia/Jakarta date +"%Y%m%d-%T")
 	fi
 
 	msg "|| Cloning Anykernel ||"
-	git clone --depth 1 --no-single-branch https://github.com/stormbreaker-project/AnyKernel3.git -b $DEVICE
+	git clone --depth 1 --no-single-branch https://github.com/Los7cau53/AnyKernel3.git
 	msg "|| Cloning libufdt ||"
 	git clone https://android.googlesource.com/platform/system/libufdt "$KERNEL_DIR"/scripts/ufdt/libufdt
 }
